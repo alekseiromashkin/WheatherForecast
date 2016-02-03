@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_weather">image weather</string>
+    <string name="datepart_morning">утро</string>
+    <string name="datepart_day">день</string>
+    <string name="datepart_evening">вечер</string>
+    <string name="temp" formatted="false">%d C˚</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="input_city">Введите название города:</string>
+</resources>

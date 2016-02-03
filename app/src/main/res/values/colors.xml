@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3fb560</color>
+    <color name="colorPrimaryDark">#8dc61d</color>
+    <color name="colorAccent">#ed7565</color>
+    <color name="text_temperature_now__textColor">#333333</color>
+    <color name="text_location__textColor">#888888</color>
+    <color name="text_description__textColor">#888888</color>
+    <color name="text_daypart__textColor">#888888</color>
+    <color name="text_daypart_temperature__textColor">#666666</color>
+    <color name="img_daypart_icon__background">#00000000</color>
+    <color name="forecast__background">#f2f2f2</color>
+</resources>
